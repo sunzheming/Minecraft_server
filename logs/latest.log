@@ -1,0 +1,30 @@
+[16:45:41] [Server thread/INFO]: Starting minecraft server version 1.9
+[16:45:41] [Server thread/INFO]: Loading properties
+[16:45:41] [Server thread/INFO]: Default game type: SURVIVAL
+[16:45:41] [Server thread/INFO]: Generating keypair
+[16:45:41] [Server thread/INFO]: Starting Minecraft server on 23.239.11.100:25565
+[16:45:41] [Server thread/INFO]: Using epoll channel type
+[16:45:41] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-7fc5cd8 (MC: 1.9) (Implementing API version 1.9-R0.1-SNAPSHOT)
+[16:45:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:45:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:45:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:45:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:45:41] [Server thread/INFO]: Preparing level "world"
+[16:45:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: 680990572352117562)
+[16:45:43] [Server thread/INFO]: Preparing spawn area: 0%
+[16:45:44] [Server thread/INFO]: Preparing spawn area: 50%
+[16:45:45] [Server thread/INFO]: Preparing start region for level 1 (Seed: 680990572352117562)
+[16:45:46] [Server thread/INFO]: Preparing spawn area: 91%
+[16:45:46] [Server thread/INFO]: Preparing start region for level 2 (Seed: 680990572352117562)
+[16:45:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:45:46] [Server thread/INFO]: Done (4.737s)! For help, type "help" or "?"
+[16:45:56] [Server thread/INFO]: Jimmy[/68.133.26.54:62927] logged in with entity id 256 at ([world]-43.5, 68.0, 245.5)
+[16:46:01] [Server thread/INFO]: Jimmy lost connection: Disconnected
+[16:46:01] [Server thread/INFO]: Jimmy left the game.
+[16:47:21] [Server thread/INFO]: Stopping the server
+[16:47:21] [Server thread/INFO]: Stopping server
+[16:47:21] [Server thread/INFO]: Saving players
+[16:47:21] [Server thread/INFO]: Saving worlds
+[16:47:21] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:47:22] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[16:47:22] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
