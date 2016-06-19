@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Jimmy
+timestamps:
+  login: 1466287225771
+  lastteleport: 1466286385523
+  logout: 1466287900815
+ipAddress: 68.133.26.54
+lastlocation:
+  world: world
+  x: -131.3586058481183
+  y: 73.0
+  z: 206.6099901532889
+  yaw: 9.599999
+  pitch: -3.3
+logoutlocation:
+  world: world
+  x: -139.33385750594894
+  y: 73.0
+  z: 204.1004947706169
+  yaw: -105.75116
+  pitch: 2.5499923
+afk: false

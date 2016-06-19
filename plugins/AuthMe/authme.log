@@ -1,0 +1,407 @@
+[06-17 23:44:49]: SQLite driver loaded
+[06-17 23:44:49]: SQLite Setup finished
+[06-17 23:44:49]: Hooked successfully into Essentials
+[06-17 23:44:49]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-17 23:44:49]: ERROR: Failed to delete GeoLiteAPI database
+[06-17 23:44:49]: ERROR: WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-17 23:44:49]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-17 23:44:49]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-17 23:44:49]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-17 23:49:22]: Jimmy registered 68.133.26.54
+[06-17 23:49:22]: Jimmy logged in!
+[06-17 23:49:23]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-17 23:52:45]: AuthMe 5.2-BETA2-b969 disabled!
+[06-17 23:52:45]: Waiting for 1 tasks to finish
+[06-18 00:29:58]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 00:29:59]: MySQL setup finished
+[06-18 00:29:59]: Hooked successfully into Essentials
+[06-18 00:29:59]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 00:29:59]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 00:29:59]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 00:29:59]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 00:29:59]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 00:30:36]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 00:30:36]: Waiting for 1 tasks to finish
+[06-18 00:33:07]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 00:33:07]: MySQL setup finished
+[06-18 00:33:07]: Hooked successfully into Essentials
+[06-18 00:33:07]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 00:33:07]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 00:33:07]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 00:33:07]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 00:33:07]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 00:33:22]: Jimmy registered 68.133.26.54
+[06-18 00:33:22]: Jimmy logged in!
+[06-18 00:55:22]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 00:55:22]: Waiting for 1 tasks to finish
+[06-18 00:55:49]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 00:55:49]: MySQL setup finished
+[06-18 00:55:49]: Hooked successfully into Essentials
+[06-18 00:55:49]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 00:55:49]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 00:55:49]: ERROR: WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-18 00:55:50]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 00:55:50]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 00:55:50]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 00:57:19]: Jimmy logged in!
+[06-18 00:59:24]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 00:59:24]: Waiting for 1 tasks to finish
+[06-18 00:59:37]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 00:59:38]: MySQL setup finished
+[06-18 00:59:38]: Hooked successfully into Essentials
+[06-18 00:59:38]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 00:59:38]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 00:59:38]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 00:59:38]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 00:59:38]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 00:59:51]: moling23 registered 68.133.26.54
+[06-18 00:59:51]: moling23 logged in!
+[06-18 01:00:17]: Jimmy logged in!
+[06-18 01:01:55]: moling23 logged in!
+[06-18 01:05:28]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:05:28]: Waiting for 1 tasks to finish
+[06-18 01:06:12]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:06:13]: MySQL setup finished
+[06-18 01:06:13]: Hooked successfully into Essentials
+[06-18 01:06:13]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:06:13]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:06:13]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:06:13]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:06:43]: moling23 logged in!
+[06-18 01:07:12]: Jimmy logged in!
+[06-18 01:09:21]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:09:21]: Waiting for 1 tasks to finish
+[06-18 01:10:00]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:10:00]: MySQL setup finished
+[06-18 01:10:00]: Hooked successfully into Essentials
+[06-18 01:10:00]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:10:00]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:10:00]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:10:00]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:10:17]: moling23 logged in!
+[06-18 01:11:04]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:11:04]: Waiting for 1 tasks to finish
+[06-18 01:21:38]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:21:39]: MySQL setup finished
+[06-18 01:21:39]: Hooked successfully into Essentials
+[06-18 01:21:39]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:21:39]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:21:39]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:21:39]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:22:07]: moling23 logged in!
+[06-18 01:22:43]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:22:43]: Waiting for 1 tasks to finish
+[06-18 01:23:56]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:23:57]: MySQL setup finished
+[06-18 01:23:57]: Hooked successfully into Essentials
+[06-18 01:23:57]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 01:23:57]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:23:57]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:23:57]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:23:57]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:24:18]: moling23 logged in!
+[06-18 01:24:45]: moling23 logged in!
+[06-18 01:26:09]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:26:09]: Waiting for 1 tasks to finish
+[06-18 01:27:15]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:27:16]: MySQL setup finished
+[06-18 01:27:16]: Hooked successfully into Essentials
+[06-18 01:27:16]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 01:27:16]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:27:16]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:27:16]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:27:16]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:30:04]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:30:04]: Waiting for 1 tasks to finish
+[06-18 01:30:21]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:30:22]: MySQL setup finished
+[06-18 01:30:22]: Hooked successfully into Essentials
+[06-18 01:30:22]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 01:30:22]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:30:22]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:30:22]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:30:22]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:40:51]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:40:52]: Waiting for 1 tasks to finish
+[06-18 01:41:09]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:41:09]: MySQL setup finished
+[06-18 01:41:09]: Hooked successfully into Essentials
+[06-18 01:41:09]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 01:41:09]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:41:09]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:41:10]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:41:10]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:41:28]: moling23 registered 68.133.26.54
+[06-18 01:41:28]: moling23 logged in!
+[06-18 01:43:10]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:43:10]: Waiting for 1 tasks to finish
+[06-18 01:44:55]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:44:56]: MySQL setup finished
+[06-18 01:44:56]: Hooked successfully into Essentials
+[06-18 01:44:56]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 01:44:56]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:44:56]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:44:56]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:44:56]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:45:06]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:45:06]: Waiting for 1 tasks to finish
+[06-18 01:47:18]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:47:19]: MySQL setup finished
+[06-18 01:47:19]: Hooked successfully into Essentials
+[06-18 01:47:19]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 01:47:19]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:47:19]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:47:19]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:47:19]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:50:15]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:50:15]: Waiting for 1 tasks to finish
+[06-18 01:50:28]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:50:29]: MySQL setup finished
+[06-18 01:50:29]: Hooked successfully into Essentials
+[06-18 01:50:29]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 01:50:29]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:50:29]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:50:29]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:50:29]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:57:56]: moling23 logged in!
+[06-18 01:58:22]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:58:22]: Waiting for 1 tasks to finish
+[06-18 01:59:11]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 01:59:11]: MySQL setup finished
+[06-18 01:59:11]: Hooked successfully into Essentials
+[06-18 01:59:11]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 01:59:11]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 01:59:11]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 01:59:11]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 01:59:11]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 01:59:26]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 01:59:26]: Waiting for 1 tasks to finish
+[06-18 02:10:58]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 02:10:58]: MySQL setup finished
+[06-18 02:10:58]: Hooked successfully into Essentials
+[06-18 02:10:58]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 02:10:58]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 02:10:58]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 02:10:58]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 02:10:58]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 02:11:28]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 02:11:28]: Waiting for 1 tasks to finish
+[06-18 02:15:02]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 02:15:03]: MySQL setup finished
+[06-18 02:15:03]: Hooked successfully into Essentials
+[06-18 02:15:03]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 02:15:03]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 02:15:03]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 02:15:03]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 02:15:03]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 02:16:04]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 02:16:04]: Waiting for 1 tasks to finish
+[06-18 02:16:15]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 02:16:15]: MySQL setup finished
+[06-18 02:16:15]: Hooked successfully into Essentials
+[06-18 02:16:15]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 02:16:15]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 02:16:15]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 02:16:15]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 02:16:15]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 02:17:39]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 02:17:39]: Waiting for 1 tasks to finish
+[06-18 02:17:56]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 02:17:57]: MySQL setup finished
+[06-18 02:17:57]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 02:17:57]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 02:17:57]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 02:17:57]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 02:18:24]: moling23 logged in!
+[06-18 02:19:36]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 02:19:36]: Waiting for 1 tasks to finish
+[06-18 15:41:46]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 15:41:46]: MySQL setup finished
+[06-18 15:41:46]: Hooked successfully into Essentials
+[06-18 15:41:46]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 15:41:46]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 15:41:46]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 15:41:46]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 15:41:46]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 15:42:05]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 15:42:05]: Waiting for 1 tasks to finish
+[06-18 15:44:40]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 15:44:41]: MySQL setup finished
+[06-18 15:44:41]: Hooked successfully into Essentials
+[06-18 15:44:41]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 15:44:41]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 15:44:41]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 15:44:41]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 15:44:41]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 15:45:29]: moling23 logged in!
+[06-18 15:46:19]: moling23 logged in!
+[06-18 15:49:58]: Jimmy logged in!
+[06-18 15:55:01]: Jimmy logged in!
+[06-18 15:55:58]: test registered 68.133.26.54
+[06-18 15:55:58]: test logged in!
+[06-18 15:57:58]: test logged in!
+[06-18 15:58:30]: moling23 logged in!
+[06-18 15:59:05]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 15:59:05]: Waiting for 1 tasks to finish
+[06-18 16:00:52]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:00:53]: MySQL setup finished
+[06-18 16:00:53]: Hooked successfully into Essentials
+[06-18 16:00:53]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 16:00:53]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:00:53]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:00:53]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:00:53]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:02:48]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:02:48]: Waiting for 1 tasks to finish
+[06-18 16:03:03]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:03:04]: MySQL setup finished
+[06-18 16:03:04]: Hooked successfully into Essentials
+[06-18 16:03:04]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 16:03:04]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:03:04]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:03:04]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:03:04]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:03:15]: test logged in!
+[06-18 16:03:50]: Jimmy logged in!
+[06-18 16:05:59]: test logged in!
+[06-18 16:07:00]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:07:00]: Waiting for 1 tasks to finish
+[06-18 16:07:43]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:07:44]: MySQL setup finished
+[06-18 16:07:44]: Hooked successfully into Essentials
+[06-18 16:07:44]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 16:07:44]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:07:44]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:07:44]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:07:44]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:08:00]: test logged in!
+[06-18 16:08:49]: Jimmy logged in!
+[06-18 16:14:13]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:14:13]: Waiting for 1 tasks to finish
+[06-18 16:14:40]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:14:40]: MySQL setup finished
+[06-18 16:14:40]: Hooked successfully into Essentials
+[06-18 16:14:40]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 16:14:41]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:14:41]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:14:41]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:14:41]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:15:55]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:15:55]: Waiting for 1 tasks to finish
+[06-18 16:17:01]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:17:02]: MySQL setup finished
+[06-18 16:17:02]: Hooked successfully into Essentials
+[06-18 16:17:02]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 16:17:02]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:17:02]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:17:02]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:17:02]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:17:13]: test logged in!
+[06-18 16:18:54]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:18:54]: Waiting for 1 tasks to finish
+[06-18 16:19:12]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:19:13]: MySQL setup finished
+[06-18 16:19:13]: Hooked successfully into Essentials
+[06-18 16:19:13]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 16:19:13]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:19:13]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:19:13]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:19:13]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:19:40]: test logged in!
+[06-18 16:20:43]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:20:43]: Waiting for 1 tasks to finish
+[06-18 16:23:37]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:23:38]: MySQL setup finished
+[06-18 16:23:38]: Hooked successfully into Essentials
+[06-18 16:23:38]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 16:23:38]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:23:38]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:23:38]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:23:38]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:24:05]: test logged in!
+[06-18 16:24:47]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:24:47]: Waiting for 1 tasks to finish
+[06-18 16:25:26]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:25:27]: MySQL setup finished
+[06-18 16:25:27]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:25:27]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:25:27]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:25:27]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:25:56]: test logged in!
+[06-18 16:27:34]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:27:34]: Waiting for 1 tasks to finish
+[06-18 16:31:38]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 16:31:38]: MySQL setup finished
+[06-18 16:31:38]: Hooked successfully into Essentials
+[06-18 16:31:38]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 16:31:38]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 16:31:38]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 16:31:38]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 16:31:38]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 16:32:03]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 16:32:03]: Waiting for 1 tasks to finish
+[06-18 17:39:00]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 17:39:00]: MySQL setup finished
+[06-18 17:39:00]: Hooked successfully into Essentials
+[06-18 17:39:00]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 17:39:00]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 17:39:00]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 17:39:00]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 17:39:00]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 17:39:27]: test logged in!
+[06-18 17:40:15]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 17:40:15]: Waiting for 1 tasks to finish
+[06-18 17:40:35]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 17:40:35]: MySQL setup finished
+[06-18 17:40:35]: Hooked successfully into Essentials
+[06-18 17:40:35]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 17:40:35]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 17:40:35]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 17:40:35]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 17:40:35]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 17:40:39]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 17:40:39]: Waiting for 1 tasks to finish
+[06-18 17:40:58]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 17:40:58]: MySQL setup finished
+[06-18 17:40:58]: Hooked successfully into Essentials
+[06-18 17:40:58]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 17:40:59]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 17:40:59]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 17:40:59]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 17:40:59]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 17:41:40]: Jimmy logged in!
+[06-18 17:44:49]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 17:44:49]: Waiting for 1 tasks to finish
+[06-18 17:45:28]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 17:45:29]: MySQL setup finished
+[06-18 17:45:29]: Hooked successfully into Essentials
+[06-18 17:45:29]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 17:45:29]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 17:45:29]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 17:45:29]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 17:45:29]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 17:46:23]: Jimmy logged in!
+[06-18 17:54:44]: test logged in!
+[06-18 17:56:56]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 17:56:56]: Waiting for 1 tasks to finish
+[06-18 17:57:29]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 17:57:30]: MySQL setup finished
+[06-18 17:57:30]: Hooked successfully into Essentials
+[06-18 17:57:30]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 17:57:30]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 17:57:30]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 17:57:30]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 17:57:30]: AuthMe 5.2-BETA2-b969 correctly enabled!
+[06-18 17:57:43]: test logged in!
+[06-18 18:00:32]: Jimmy logged in!
+[06-18 18:09:23]: test logged in!
+[06-18 18:14:58]: AuthMe 5.2-BETA2-b969 disabled!
+[06-18 18:14:58]: Waiting for 1 tasks to finish
+[06-18 18:15:15]: Connection arguments loaded, Hikari ConnectionPool ready!
+[06-18 18:15:16]: MySQL setup finished
+[06-18 18:15:16]: Hooked successfully into Essentials
+[06-18 18:15:16]: Essentials spawn file not found: '/home/jimmy/minecraft/plugins/Essentials/spawn.yml'
+[06-18 18:15:16]: [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[06-18 18:15:16]: Development builds are available on our jenkins, thanks to f14stelt.
+[06-18 18:15:16]: Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[06-18 18:15:16]: AuthMe 5.2-BETA2-b969 correctly enabled!

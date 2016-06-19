@@ -1,0 +1,22 @@
+geolocation: United States
+socialspy: false
+lastAccountName: test
+timestamps:
+  login: 1466287752905
+  logout: 1466287832120
+  lastteleport: 1466286887416
+ipAddress: 68.133.26.54
+logoutlocation:
+  world: world
+  x: -151.69999998807907
+  y: 68.0
+  z: 206.69999998807907
+  yaw: 268.05
+  pitch: -25.349998
+lastlocation:
+  world: world
+  x: -150.30000001192093
+  y: 70.0
+  z: 206.54134378802925
+  yaw: 266.69998
+  pitch: -17.4
